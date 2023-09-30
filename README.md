@@ -1,4 +1,4 @@
-# Deploy astro in render using Docker
+# Deploy astro in render and EC2 using Docker
 Deploying a test application built in Astro using docker in render[https://render.com/].
 
 Just five steps and your astro application will be in production:
